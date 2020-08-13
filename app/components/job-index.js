@@ -1,0 +1,1 @@
+export { default } from 'ahlev-job/components/job-index';
